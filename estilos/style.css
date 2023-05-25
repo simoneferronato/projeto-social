@@ -19,8 +19,7 @@ body {
 
 main {
     position: relative;
-    height: 100vh;
-    
+    height: 100vh; 
 }
 
 section#telefone {
@@ -31,7 +30,12 @@ section#telefone {
     height: 627px;
     width: 311px;
     background: url(../imagens/frame-iphone.png) no-repeat;
+}
 
-    
-    
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 268px;
+    height: 471px;
 }
